@@ -1,0 +1,147 @@
+/* 
+
+    AUTHOR     :   SEKIA JABER
+    DATE       :   dd/mm/yyyy
+    Version    :   v.1.0
+
+
+*/
+
+/*----------------------------------------------------------------------------*/
+/*GLOBAL*/
+/*----------------------------------------------------------------------------*/
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: black;
+    color: #9ad79b;
+    
+}
+
+
+
+
+/*typo*/
+/*--------------------------------------*/
+
+/*others*/
+/*--------------------------------------*/
+
+/*links*/
+/*--------------------------------------*/
+
+
+/*forms*/
+/*--------------------------------------*/
+
+
+/*table*/
+/*--------------------------------------*/
+
+
+/*buttons*/
+/*--------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------------------------------------------*/
+/*LAYOUTS*/
+/*------------------------------------------------------------------------*/
+
+
+
+
+/*header*/
+/*--------------------------------------*/
+.header {
+    border: 1px dashed #fff;
+    background-color: black;
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10000;
+    
+}
+
+/*nav*/
+/*--------------------------------------*/
+
+
+
+/*main*/
+/*--------------------------------------*/
+.content {
+    border: 1px dashed #fff;
+    
+    padding-bottom: 20px;
+    margin-top: 100px;
+    float: auto; 
+}
+
+.features {
+    border: 1px dashed #fff;
+    
+    
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 500px;
+    
+}
+
+.features h2 {
+    margin-bottom: 0;
+}
+
+.feature-1 p {
+    margin: 0;
+}
+
+.feature-2 p {
+    margin: 0;
+}
+.feature-3 p {
+    margin: 0;
+}
+
+/*aside*/
+/*--------------------------------------*/
+.sidebar {
+    border: 1px dashed #fff;
+    
+    float: auto;
+    
+    
+}
+
+.sidebar div {
+    width: 130px;
+    margin: 15px;
+    border: 1px dashed #fff;
+    position:sticky;
+    left: 1500px;
+    
+    
+}
+.sidebar ul {
+    list-style-position: outside;
+}
+
+
+/*footer*/
+/*--------------------------------------*/
+
+footer {
+    border: 1px dashed #fff;
+    
+    
+    text-align: center;
+    margin-bottom: 10px;
+}
